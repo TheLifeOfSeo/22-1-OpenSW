@@ -4,6 +4,8 @@ print(list[-1])
 print('정렬 전 데이터 : ', end ='')
 [print(hex(i), end = ' ') for i in list]
 
+#2019038094 서도원입니다!
+
 for i in range(0, len(list)) :
     for j in range (i+1, 5) :
         if list[i] > list[j] :

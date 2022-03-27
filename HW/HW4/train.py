@@ -25,6 +25,8 @@ for i in train :
 
 trainList = sorted(dictTrain.items(), key = operator.itemgetter(1), reverse = True)
 
+#2019038094 서도원입니다!
+
 print('-------------------------------')
 print("기차 수송량 목록")
 print(train)

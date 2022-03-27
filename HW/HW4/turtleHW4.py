@@ -12,6 +12,7 @@ if __name__ == "__main__" :
 
     for i in range(0, 5) :
         myTurtle = turtle.Turtle('turtle')
+        #2019038094 서도원입니다!
         tX = random.randrange(-swidth / 2, swidth / 2)
         tY = random.randrange(-sheight / 2, sheight / 2)
         r = random.random(); g = random.random(); b = random.random()
