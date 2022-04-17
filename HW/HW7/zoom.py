@@ -17,7 +17,7 @@ window.geometry("1000x1000")
 
 window.title("확대와 축소")
 
-2019038094 서도원입니다.
+#2019038094 서도원입니다.
 
 window.bind("<Up>", zoomIn)
 window.bind("<Down>", zoomOut)
