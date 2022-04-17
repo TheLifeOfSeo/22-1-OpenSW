@@ -26,7 +26,7 @@ window.bind("<Down>", zoomOut)
 
 
 
-photo = tk.PhotoImage(file = "HW/HW6/img/london.gif")
+photo = tk.PhotoImage(file = "HW/HW7/img/london.gif")
 labelImage = tk.Label(window, image = photo)
 labelImage.pack()
 

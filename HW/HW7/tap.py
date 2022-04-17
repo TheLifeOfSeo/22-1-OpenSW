@@ -15,11 +15,11 @@ baseTab.add(tabParis, text='파리')
 
 baseTab.pack(expand=1, fill="both")
 
-photoLondon = tk.PhotoImage(file = "HW/HW6/img/london.gif")
+photoLondon = tk.PhotoImage(file = "HW/HW7/img/london.gif")
 labelLondon = tk.Label(tabLondon, image = photoLondon)
 labelLondon.pack()
 
-photoParis = tk.PhotoImage(file = "HW/HW6/img/paris.gif")
+photoParis = tk.PhotoImage(file = "HW/HW7/img/paris.gif")
 labelParis = tk.Label(tabParis, image = photoParis)
 labelParis.pack()
 
